@@ -9,3 +9,5 @@ int main() {
 	DiplomaOrders::InventoryForm form;
 	Application::Run(% form);
 }
+
+//ChistkovNewComment
